@@ -2,7 +2,7 @@
   "name": "cy-upload-image",
   "version": "1.0.0",
   "description": "pc端抽屉组件",
-  "main": "dist/cy-upload-image.common.js",
+  "main": "dist/pc-drawer.common.js",
   "keyword": "upload image cy",
   "author": "youngeffort",
   "private": false,
@@ -10,7 +10,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build:lib": "vue-cli-service build --target lib --name cy-upload-image ./src/components/index.js"
+    "build:lib": "vue-cli-service build --target lib --name pc-drawer ./src/components/index.js"
   },
   "dependencies": {
     "core-js": "^2.6.5",
